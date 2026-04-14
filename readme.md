@@ -5,7 +5,7 @@ A Netflix-inspired movie browsing web app built using HTML, CSS, and JavaScript.
 ---
 
 ## 🚀 Live Demo
-👉
+👉 https://movies-net-zeta.vercel.app/gi
 
 ---
 
